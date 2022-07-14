@@ -13,7 +13,7 @@
 ---
 ## Tema
 
-.Programa que en
+Programa que 
 
 ### Implementado en:
 - Lenguaje:Php y html
