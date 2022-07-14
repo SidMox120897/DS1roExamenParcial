@@ -10,6 +10,7 @@
 - Documentar y entender un programa 
 #### Colaboradores:
 - **HUAHUATICO SORIA RONALD** [Romehe](https://github.com/Romehe369)
+- **TELLO JUSTINIANI LUIS DAVID** [SidMox120897] (https://github.com/SidMox120897)
 ---
 ## Tema
 
