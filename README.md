@@ -24,6 +24,7 @@ Esta asu vez podra mostrar alumnos los alumnos nuevos, y en otra opcion los alum
 
 ### Implementado en:
 - Lenguaje:Php y html
+- Utilizando archivos ".csv"
 ### Descripcion del problema
 
 #### Descripcion
