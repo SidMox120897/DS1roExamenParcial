@@ -27,7 +27,7 @@ Programa que obtiene
 
 #### Descripcion
 Al ejecutar el archivo index, nos pide en un formulario la carga de archivos 
-"MatriculadosGeneral.csv" y "Distribución docente de tutorias en 2021-1.csv"
+"MatriculadosGeneral.csv" y "Distribución docente de tutorias en 2021-1.csv".
 Una vez agregado los archivos podemos obtener los alumnos que no tienen tutor 
 y los alumnos que no se matricularon en el semestre 2022-1 y los alumnos que ya
 egresaron de la escuela profesional
