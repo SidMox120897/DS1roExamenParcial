@@ -4,8 +4,9 @@
 - **Universidad:** Universidad Nacional de San Antonio Abad del Cusco
 - **Facultad:** Facultad de ingenieria electrica, electronica, informatica y mecanica
 - **Escuela Profesional:** Ingenieria Informatica y de Sistemas
-#### Ingeniera:
-- **Quintanilla Portugal Roxana Lisette**
+#### Docnete:
+- **Ing. Quintanilla Portugal Roxana Lisette**
+- **Ing. Vittali Quispe Surco**
 #### Trabajo:
 - Documentar y entender un programa 
 #### Colaboradores:
