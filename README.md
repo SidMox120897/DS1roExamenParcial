@@ -7,3 +7,16 @@
 #### Ingeniera:
 - **Quintanilla Portugal Roxana Lisette**
 #### Trabajo:
+- Documentar y entender un programa 
+#### Colaboradores:
+- **HUAHUATICO SORIA RONALD** [Romehe](https://github.com/Romehe369)
+---
+## Tema
+
+.Programa que en
+
+### Implementado en:
+- Lenguaje:Php y html
+### Descripcion del problema
+
+#### ¿Que metodos utilizamos?
