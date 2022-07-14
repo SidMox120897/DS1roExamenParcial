@@ -14,7 +14,7 @@
 ---
 ## Tema
 
-Programa que 
+Programa que obtiene
 
 ### Implementado en:
 - Lenguaje:Php y html
