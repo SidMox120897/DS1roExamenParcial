@@ -19,7 +19,8 @@
 ---
 ## Tema
 
-Programa que obtiene
+Programa que obtiene una informacion de dos tablas de alumnos matriculados del 2022-I y los alumnos con tutroria en 2021.
+Esta asu vez podra mostrar alumnos los alumnos nuevos, y en otra opcion los alumnos que ya egresaron o no se matricularon.
 
 ### Implementado en:
 - Lenguaje:Php y html
