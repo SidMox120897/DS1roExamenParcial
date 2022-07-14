@@ -7,8 +7,6 @@
 #### Docnete:
 - **Ing. Quintanilla Portugal Roxana Lisette**
 - **Ing. Vittali Quispe Surco**
-#### Trabajo:
-- Documentar y entender un programa 
 #### Colaboradores:
 - **CUETO SANCHEZ CARLA PALOMA** [PALOMA](https://github.com/carlasanchez15)
 - **HUAHUATICO SORIA RONALD** [RONALD](https://github.com/Romehe369)
@@ -26,6 +24,8 @@ Esta asu vez podra mostrar alumnos los alumnos nuevos, y en otra opcion los alum
 - Lenguaje:Php y html
 - Utilizando archivos ".csv"
 ### Descripcion del problema
+El problema, tenemos dos tablas de alumnos con tutoria en 2021 y en otra alumnos matricualdos en 2022-I, 
+debemos obtener la diferencia de los conjuntos de datos, y asi tener los resultados necesarios.
 
 #### Descripcion
 Al ejecutar el archivo index.php, nos pide en un formulario la carga de archivos 
