@@ -2,7 +2,7 @@
 ### Datos Academicos
 
 - **Universidad:** Universidad Nacional de San Antonio Abad del Cusco
-- **Facultad:** Facultad de ingenieria electrica, electronica, informatica y mecanica
+- **Facultad:** De ingenieria electrica, electronica, informatica y mecanica
 - **Escuela Profesional:** Ingenieria Informatica y de Sistemas
 #### Docnete:
 - **Ing. Quintanilla Portugal Roxana Lisette**
